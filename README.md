@@ -14,4 +14,4 @@ Retorna os dados do dataset em HTML no formato tabela. Ex: $("#relatorio").html(
 Personaliza as colunas da tabela HTML
 # Dependências
 -JQUERY 2.x+ <br>
--BOOTSTRAP 3
+-BOOTSTRAP 3 ou Fluig-Style
