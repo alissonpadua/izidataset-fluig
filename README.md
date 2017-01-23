@@ -13,5 +13,5 @@ Retorna os dados do dataset em HTML no formato tabela. Ex: $("#relatorio").html(
 # IZIDATASET.setCustomColumns("Nome", "Sobrenome", "Email");
 Personaliza as colunas da tabela HTML
 # Dependências
--JQUERY 2.x+
+-JQUERY 2.x+ <br>
 -BOOTSTRAP 3
