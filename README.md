@@ -10,7 +10,7 @@ Faz a consulta síncrona na API dataset/dataset passando toda as configurações
 Retorna o JSON "cru" vindo do Fluig
 # IZIDATASET.tableHTML()
 Retorna os dados do dataset em HTML no formato tabela. Ex: $("#relatorio").html(IZIDATASET.tableHTML()); As colunas são as mesmas do atributo columns do JSON retornado pelo servidor
-# IZIDATASET.setCustomColumns("Nome", "Sobrenome", "Email");
+# IZIDATASET.setCustomColumns(["Nome", "Sobrenome", "Email"]);
 Personaliza as colunas da tabela HTML
 # Dependências
 -JQUERY 2.x+ <br>
